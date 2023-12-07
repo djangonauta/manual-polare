@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "polare-quickstart"
+version = "0.1.0"
+description = ""
+authors = ["Igor Carvalho <igor.carvalho@ifpa.edu.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+autopep8 = "*"
+flake8 = "*"
+invoke = "*"
+isort = "*"
+pygments = "*"
+rstcheck = "*"
+sphinx = "*"
+sphinx-autobuild = "*"
+sphinx-hoverxref = "*"
+sphinx-rtd-theme = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
