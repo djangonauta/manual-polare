@@ -13,12 +13,3 @@ Bem vindo a documentação Polare Início Rápido
    plano_gerencial.rst
    plano_individual.rst
    entregas.rst
-
-
-
-Índices e Tabelas
-=================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
