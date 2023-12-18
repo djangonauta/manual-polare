@@ -13,8 +13,6 @@ Informações Gerais
 .. figure:: /static/img/plano_gerencial_informacoes_gerais.jpg
     :align: center
 
-    Passo 1
-
 
 Processos
 ---------
@@ -26,8 +24,8 @@ atividades em um processo deve-se clicar no respectivo link.
 .. figure:: /static/img/plano_gerencial_processos.jpg
     :align: center
 
-    Passo 2 (exemplo). Um processo foi adicionado com o título “Sistemas de Informação”. Duas atividades foram
-    cadastradas para esse processo.
+    Um processo foi adicionado com o título “Sistemas de Informação”. Duas atividades foram cadastradas para
+    esse processo.
 
 
 Atividades
@@ -41,6 +39,5 @@ não é exibida para seleção no momento de criar novas entregas**.
 .. figure:: /static/img/plano_gerencial_atividades.jpg
     :align: center
 
-    Passo 3 (exemplo). Foram adicionadas duas atividades para o processo “Sistemas de Informação”: “Ações para
-    o Sistema Integrado de Gestão – SIG” e “Ações para os sistemas de informação em utilização na institução”.
-
+    Foram adicionadas duas atividades para o processo “Sistemas de Informação”: “Ações para o Sistema
+    Integrado de Gestão – SIG” e “Ações para os sistemas de informação em utilização na institução”.

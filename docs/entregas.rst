@@ -23,7 +23,6 @@ e-mails, reuniões, etc.
 .. figure:: /static/img/plano_gerencial_entregas.jpg
     :align: center
 
-    Entrega (exemplo). Título da entrega (um campo de texto livre), junto com uma atividade que foi
-    selecionada da lista de atividades do respectivo plano gerencial (cadastrado anteriormente). Duas
-    subtarefas foram adicionadas, contendo os números dos chamados antendidos no GLPI durante o período da
-    entrega.
+    Título da entrega (um campo de texto livre), junto com uma atividade que foi selecionada da lista de
+    atividades do respectivo plano gerencial (cadastrado anteriormente). Duas subtarefas foram adicionadas,
+    contendo os números dos chamados antendidos no GLPI durante o período da entrega.
