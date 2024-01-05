@@ -1,15 +1,21 @@
-.. polare-quickstart documentation master file, created by
-   sphinx-quickstart on Thu Dec  7 07:12:30 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Manual Polare
+=============
 
-Bem vindo a documentação Polare Início Rápido
-=============================================
+Orientações para elaboração e cadastro, no polare, de planos de entrega e planos de trabalho.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Tópicos
+   :caption: Atribuições da Chefia
 
-   plano_gerencial.rst
-   plano_individual.rst
-   entregas.rst
+   plano-entrega-unidade.rst
+   cadastro-plano-entrega-unidade.rst
+   homologacao-plano-entrega.rst
+   avaliacao-plano-trabalho-servidor.rst
+   relatorios.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Atribuições do Servidor
+
+   plano-trabalho-servidor.rst
+   justificativa-plano-trabalho-nao-finalizado.rst

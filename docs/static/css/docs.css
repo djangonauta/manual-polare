@@ -1,5 +1,9 @@
 img {
   margin-bottom: 10px;
-  border: 2px solid #ccc;
+  border: 1px solid #ccc;
   border-radius: 3px;
+}
+
+.underline {
+  text-decoration: underline;
 }

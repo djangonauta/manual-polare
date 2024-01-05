@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'polare-quickstart'
-copyright = '2023, DTI/IFPA'
+project = 'manual-polare'
+copyright = '2024, DTI/IFPA'
 author = 'DTI/IFPA'
 
 # -- General configuration ---------------------------------------------------

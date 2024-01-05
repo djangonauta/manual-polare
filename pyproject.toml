@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "polare-quickstart"
+name = "manual-polare"
 version = "0.1.0"
 description = ""
 authors = ["Igor Carvalho <igor.carvalho@ifpa.edu.br>"]
