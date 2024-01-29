@@ -19,3 +19,10 @@ Orientações para elaboração e cadastro, no polare, de planos de entrega e pl
 
    plano-trabalho-servidor.rst
    justificativa-plano-trabalho-nao-finalizado.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Problemas conhecidos
+
+   erros-planos-entrega-unidade.rst
+   erros-plano-trabalho.rst
