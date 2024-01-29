@@ -24,6 +24,13 @@ plano correto deve ser atualizado para o ano atual e em seguida enviado para hom
 atual.
 
 
+Erros referentes a unidades
+---------------------------
+
+Duas, ou mais unidades podem ter o mesmo nome, ou nomes parecidos, confundindo o usuário. **Sempre deve-se
+verificar o número da unidade para confirmação**. A atualização do organograma é feita pela PROGEP.
+
+
 Lista de atividades do plano de trabalho está vazia
 ---------------------------------------------------
 

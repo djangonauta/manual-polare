@@ -44,3 +44,6 @@ entrega da unidade homologado no ano atual.
 Vinculo de chefia não está aparecendo
 -------------------------------------
 
+Perfis de responsabilidade são adicionados pela DTI no SIGADMIN mediante abertura de chamado com portaria
+anexada. O usuário tem acesso ao vínculo de chefia no Polare logo após relogar no sistema. Atenção no número
+da unidade antes de cadastrar a chefia.
